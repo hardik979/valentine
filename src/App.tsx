@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
 
 const texts = [
-  "Hii chuklu(riya)👋",
+  "Hii riya👋",
   "I hope you are okay",
   "Tum wo brown top me aur safed pant mei bas acchi lagti ho 👀",
   "Arre nhi nhi sab mei achhi lagti 😂",

@@ -9,7 +9,7 @@ const texts = [
   "Arre nhi nhi sab mei achhi lagti 😂",
   "Infact, kapde tumse achhe lagne lagte🙈",
   "Toh mai ye keh rha hu ki",
-  "wo kattha top aur white shirt mei",
+  "wo kattha top aur white pant mei",
   "meri valentine banogi kya?😂"
 ];
 
@@ -122,7 +122,7 @@ export default function ValentineProposal() {
           transition={{ duration: 0.5 }}
           className="mt-6 text-2xl font-semibold text-center"
         >
-          Nice Decision. (Bill split kar lege)
+          Nice Decision. (kyuki waise bhi mai agle saal crorepati ban hi jauga)
         </motion.div>
       )}
     </div>

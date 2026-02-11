@@ -3,14 +3,12 @@ import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
 
 const texts = [
-  "Hii riya👋",
-  "I hope you are okay",
-  "Tum wo brown top me aur safed pant mei bas acchi lagti ho 👀",
-  "Arre nhi nhi sab mei achhi lagti 😂",
-  "Infact, kapde tumse achhe lagne lagte🙈",
-  "Toh mai ye keh rha hu ki",
-  "wo kattha top aur white pant mei",
-  "meri valentine banogi kya?😂"
+  "Hii sapna👋",
+  "Jab mai tumhe dekhta hu toh lagta hai ki sapna dekh rha hu",
+  "Waise mai keh raha hu ki 👀",
+  "Apna surname change karna chahogi kya",
+  "Arre sorry galti se likh diya",
+  "Waise mere sath date pe chalogi kya ?",
 ];
 
 export default function ValentineProposal() {

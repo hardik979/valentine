@@ -3,12 +3,10 @@ import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
 
 const texts = [
-  "Hii sapna👋",
-  "Jab mai tumhe dekhta hu toh lagta hai ki sapna dekh rha hu",
-  "Waise mai keh raha hu ki 👀",
-  "Apna surname change karna chahogi kya",
-  "Arre sorry galti se likh diya",
-  "Waise mere sath date pe chalogi kya ?",
+  "Hii Aap mujhse gussa ho i know 😔",
+  "Mai Aapse sorry bolna chahta hu 🥺",
+  "Aur mai aapse bolna chahta hu ki",
+  "will you be my dost again 🥰",
 ];
 
 export default function ValentineProposal() {
@@ -120,7 +118,7 @@ export default function ValentineProposal() {
           transition={{ duration: 0.5 }}
           className="mt-6 text-2xl font-semibold text-center"
         >
-          Nice Decision. (kyuki waise bhi mai agle saal crorepati ban hi jauga)
+          Nice Decision. (Agar aap chaho toh mai aapke farewell ke paise bhi lauta sakta hu ☺️)
         </motion.div>
       )}
     </div>
